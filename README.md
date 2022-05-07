@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Coding skill. Java, Competitive Programming 
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on project
-- 📫  If you are interested in contacting me please [Email](https://www.rawatpriya0610i@gmail.com), or feel free to connect with me on [LinkedIn](www.linkedin.com/in/priya-rawat18).
+- 📫  If you are interested in contacting me please [Email](https://www.rawatpriya0610i@gmail.com), or feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/priya-rawat18/).
 
 <a href="https://github.com/PriyaRawat18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/PriyaRawat18?logo=github&style=for-the-badge&color=6366f1&labelColor=27272a" /></a>
@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/PriyaRawat18?logo=github&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Santosh7017" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />   </a> <a href="https://instagram.com/its_himanshu_03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/himanshu-kushwaha-7a27a91b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/18942503/himanshu-kushwaha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://github.com/PriyaRawat18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />   </a> <a href="https://instagram.com/i_priyarawat10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/priya-rawat18/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 

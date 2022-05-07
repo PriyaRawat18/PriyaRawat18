@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫  If you are interested in contacting me please [Email](https://www.rawatpriya0610i@gmail.com), or feel free to connect with me on [LinkedIn](www.linkedin.com/in/priya-rawat18).
 
 <a href="https://github.com/PriyaRawat18" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Himanshu03K?logo=github&style=for-the-badge&color=6366f1&labelColor=27272a" /></a>
+src="https://img.shields.io/github/followers/PriyaRawat18?logo=github&style=for-the-badge&color=6366f1&labelColor=27272a" /></a>
 
 ### Skills
 
